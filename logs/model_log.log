@@ -1,0 +1,462 @@
+2024-02-12T12:10:06,657 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:06,661 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:06,661 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:06,661 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:06,665 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:06,665 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:10:07,974 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:07,974 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:07,974 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:07,978 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:07,978 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:07,978 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:10:09,256 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:09,260 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:09,260 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:09,260 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:09,260 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:09,260 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:10:11,530 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:11,530 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:11,530 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:11,530 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:11,530 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:11,534 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:10:14,817 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:14,821 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:14,821 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:14,822 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:14,822 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:14,824 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:10:20,084 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:20,084 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:20,084 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:20,084 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:20,084 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:20,088 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:10:28,326 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:28,331 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:28,331 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:28,331 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:28,331 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:28,331 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:10:41,602 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:10:41,602 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:10:41,606 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:10:41,606 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:10:41,606 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:10:41,606 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:11:02,923 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:11:02,927 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:11:02,927 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:11:02,927 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:11:02,927 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:11:02,927 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:11:37,220 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:11:37,224 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:11:37,224 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:11:37,224 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:11:37,224 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:11:37,224 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:12:32,480 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:12:32,480 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 16, in <module>
+2024-02-12T12:12:32,480 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2024-02-12T12:12:32,480 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 6, in <module>
+2024-02-12T12:12:32,480 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import yaml
+2024-02-12T12:12:32,480 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2024-02-12T12:14:01,856 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:14:01,856 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:14:01,860 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:15:33,958 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:15:33,958 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:15:33,958 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:15:33,958 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:15:33,958 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:15:33,958 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:15:33,962 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:15:33,962 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:15:33,962 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:15:33,962 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:15:35,305 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:15:35,308 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:15:35,308 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:15:35,309 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:15:35,309 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:15:35,309 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:15:35,309 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:15:35,311 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:15:35,311 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:15:35,312 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:15:36,667 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:15:36,671 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:15:36,671 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:15:38,982 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:15:38,982 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:15:38,984 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:15:38,984 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:15:38,986 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:15:38,986 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:15:38,986 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:15:38,986 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:15:38,986 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:15:38,986 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:15:42,324 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:15:42,324 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:15:42,324 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:15:42,324 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:15:42,327 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:15:42,327 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:15:42,327 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:15:42,328 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:15:42,328 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:15:42,328 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:15:47,649 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:15:47,652 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:15:47,652 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:15:47,652 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:15:47,652 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:15:47,652 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:15:47,652 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:15:47,652 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:15:47,657 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:15:47,657 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:15:55,993 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:15:55,996 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:16:09,307 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:16:09,308 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:16:09,308 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:16:09,308 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:16:09,308 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:16:09,308 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:16:09,311 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:16:09,312 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:16:09,312 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:16:09,312 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:16:30,665 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:16:30,665 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:16:30,665 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:16:30,665 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:16:30,669 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:16:30,669 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:16:30,669 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:16:30,669 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:16:30,671 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:16:30,671 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:17:05,006 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:17:05,010 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 17, in <module>
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.model_loader import ModelLoaderFactory
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 13, in <module>
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.service import Service
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\service.py", line 11, in <module>
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     from ts.protocol.otf_message_handler import create_predict_response
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\protocol\otf_message_handler.py", line 14, in <module>
+2024-02-12T12:18:00,298 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG -     import torch
+2024-02-12T12:18:00,302 [WARN ] W-9000-movieconnect_test_1.0-stderr MODEL_LOG - ModuleNotFoundError: No module named 'torch'
+2024-02-12T12:19:43,185 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:19:43,221 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:19:43,221 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]41204
+2024-02-12T12:19:43,221 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:19:43,221 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:19:43,258 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:19:43,331 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - model_name: movieconnect_test, batchSize: 1
+2024-02-12T12:19:43,372 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Backend worker process died.
+2024-02-12T12:19:43,372 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:19:43,372 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 100, in load
+2024-02-12T12:19:43,374 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2024-02-12T12:19:43,374 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 145, in _load_handler_file
+2024-02-12T12:19:43,374 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2024-02-12T12:19:43,374 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\AppData\Local\Programs\Python\Python310\Lib\importlib\__init__.py", line 126, in import_module
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'image_classifier'
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - 
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2024-02-12T12:19:43,376 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - 
+2024-02-12T12:19:43,380 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:19:43,381 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 258, in <module>
+2024-02-12T12:19:43,381 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     worker.run_server()
+2024-02-12T12:19:43,381 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 226, in run_server
+2024-02-12T12:19:43,381 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2024-02-12T12:19:43,381 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 189, in handle_connection
+2024-02-12T12:19:43,381 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2024-02-12T12:19:43,384 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 131, in load_model
+2024-02-12T12:19:43,384 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2024-02-12T12:28:53,077 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:28:53,085 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:28:53,086 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]8716
+2024-02-12T12:28:53,086 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:28:53,086 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:28:53,092 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:47:51,939 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:47:51,944 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:47:51,946 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]25144
+2024-02-12T12:47:51,947 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:47:51,948 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:47:51,977 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:47:52,061 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - model_name: movieconnect_test, batchSize: 1
+2024-02-12T12:47:55,574 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Backend worker process died.
+2024-02-12T12:47:55,575 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:47:55,576 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 100, in load
+2024-02-12T12:47:55,577 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2024-02-12T12:47:55,578 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 145, in _load_handler_file
+2024-02-12T12:47:55,578 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2024-02-12T12:47:55,579 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\AppData\Local\Programs\Python\Python310\Lib\importlib\__init__.py", line 126, in import_module
+2024-02-12T12:47:55,580 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2024-02-12T12:47:55,581 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+2024-02-12T12:47:55,582 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+2024-02-12T12:47:55,583 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+2024-02-12T12:47:55,583 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'image_classifier'
+2024-02-12T12:47:55,584 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - 
+2024-02-12T12:47:55,584 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2024-02-12T12:47:55,585 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - 
+2024-02-12T12:47:55,586 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:47:55,587 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 258, in <module>
+2024-02-12T12:47:55,587 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     worker.run_server()
+2024-02-12T12:47:55,588 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 226, in run_server
+2024-02-12T12:47:55,588 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2024-02-12T12:47:55,588 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 189, in handle_connection
+2024-02-12T12:47:55,589 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2024-02-12T12:47:55,589 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 131, in load_model
+2024-02-12T12:47:55,590 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2024-02-12T12:47:55,590 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 102, in load
+2024-02-12T12:47:55,592 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2024-02-12T12:47:55,592 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 151, in _load_default_handler
+2024-02-12T12:47:55,593 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2024-02-12T12:47:55,594 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\AppData\Local\Programs\Python\Python310\Lib\importlib\__init__.py", line 126, in import_module
+2024-02-12T12:47:55,595 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2024-02-12T12:47:55,595 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+2024-02-12T12:47:55,595 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+2024-02-12T12:47:55,596 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+2024-02-12T12:47:55,596 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+2024-02-12T12:47:55,597 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+2024-02-12T12:47:55,597 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2024-02-12T12:47:55,598 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\torch_handler\image_classifier.py", line 11, in <module>
+2024-02-12T12:47:55,599 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     from .vision_handler import VisionHandler
+2024-02-12T12:47:55,600 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\torch_handler\vision_handler.py", line 11, in <module>
+2024-02-12T12:47:55,601 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     from captum.attr import IntegratedGradients
+2024-02-12T12:47:55,601 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'captum'
+2024-02-12T12:47:59,257 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:47:59,265 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:47:59,267 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]41072
+2024-02-12T12:47:59,267 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:47:59,268 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:47:59,276 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:48:02,611 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:48:02,622 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:48:02,623 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]33000
+2024-02-12T12:48:02,624 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:48:02,625 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:48:02,633 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:48:06,883 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:48:06,892 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:48:06,893 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]43988
+2024-02-12T12:48:06,893 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:48:06,894 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:48:06,902 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:48:12,177 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:48:12,187 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:48:12,188 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]40932
+2024-02-12T12:48:12,189 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:48:12,189 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:48:12,197 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:48:19,551 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:48:19,560 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:48:19,561 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]41744
+2024-02-12T12:48:19,562 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:48:19,563 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:48:19,572 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:48:29,858 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:48:29,867 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:48:29,867 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]41612
+2024-02-12T12:48:29,868 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:48:29,868 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:48:29,875 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:48:45,729 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:48:45,738 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:48:45,739 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]14112
+2024-02-12T12:48:45,740 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:48:45,740 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:48:45,746 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:49:09,698 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:49:09,708 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:49:09,709 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]42084
+2024-02-12T12:49:09,709 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:49:09,710 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:49:09,718 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:49:47,039 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:49:47,049 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:49:47,050 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]24196
+2024-02-12T12:49:47,050 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:49:47,051 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:49:47,059 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:54:37,326 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:54:37,333 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:54:37,334 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]15704
+2024-02-12T12:54:37,334 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:54:37,335 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:54:37,364 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:54:37,410 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - model_name: movieconnect_test, batchSize: 1
+2024-02-12T12:54:38,797 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Backend worker process died.
+2024-02-12T12:54:38,797 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:54:38,798 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 100, in load
+2024-02-12T12:54:38,798 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module, function_name = self._load_handler_file(handler)
+2024-02-12T12:54:38,799 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 145, in _load_handler_file
+2024-02-12T12:54:38,800 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name)
+2024-02-12T12:54:38,801 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\AppData\Local\Programs\Python\Python310\Lib\importlib\__init__.py", line 126, in import_module
+2024-02-12T12:54:38,802 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2024-02-12T12:54:38,804 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+2024-02-12T12:54:38,805 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+2024-02-12T12:54:38,805 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+2024-02-12T12:54:38,808 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'image_classifier'
+2024-02-12T12:54:38,809 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - 
+2024-02-12T12:54:38,810 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - During handling of the above exception, another exception occurred:
+2024-02-12T12:54:38,810 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - 
+2024-02-12T12:54:38,811 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:54:38,811 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 258, in <module>
+2024-02-12T12:54:38,812 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     worker.run_server()
+2024-02-12T12:54:38,812 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 226, in run_server
+2024-02-12T12:54:38,813 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2024-02-12T12:54:38,813 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 189, in handle_connection
+2024-02-12T12:54:38,814 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     service, result, code = self.load_model(msg)
+2024-02-12T12:54:38,814 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 131, in load_model
+2024-02-12T12:54:38,815 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2024-02-12T12:54:38,815 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 102, in load
+2024-02-12T12:54:38,817 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module = self._load_default_handler(handler)
+2024-02-12T12:54:38,817 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 151, in _load_default_handler
+2024-02-12T12:54:38,818 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     module = importlib.import_module(module_name, "ts.torch_handler")
+2024-02-12T12:54:38,819 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\AppData\Local\Programs\Python\Python310\Lib\importlib\__init__.py", line 126, in import_module
+2024-02-12T12:54:38,819 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     return _bootstrap._gcd_import(name[level:], package, level)
+2024-02-12T12:54:38,820 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+2024-02-12T12:54:38,820 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+2024-02-12T12:54:38,821 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+2024-02-12T12:54:38,822 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+2024-02-12T12:54:38,822 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+2024-02-12T12:54:38,823 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+2024-02-12T12:54:38,823 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\torch_handler\image_classifier.py", line 11, in <module>
+2024-02-12T12:54:38,823 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     from .vision_handler import VisionHandler
+2024-02-12T12:54:38,824 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\torch_handler\vision_handler.py", line 11, in <module>
+2024-02-12T12:54:38,824 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     from captum.attr import IntegratedGradients
+2024-02-12T12:54:38,825 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - ModuleNotFoundError: No module named 'captum'
+2024-02-12T12:54:41,944 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:54:41,952 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:54:41,953 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]26456
+2024-02-12T12:54:41,954 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:54:41,954 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:54:41,960 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:54:45,058 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:54:45,065 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:54:45,065 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]28980
+2024-02-12T12:54:45,065 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:54:45,066 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:54:45,071 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:54:49,373 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:54:49,384 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:54:49,385 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]42124
+2024-02-12T12:54:49,385 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:54:49,386 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:54:49,393 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:54:55,214 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:54:55,232 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:54:55,233 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]25132
+2024-02-12T12:54:55,233 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:54:55,234 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:54:55,240 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:55:03,704 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:55:03,720 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:55:03,721 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]14812
+2024-02-12T12:55:03,722 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:55:03,722 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:55:03,729 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:55:13,972 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:55:13,980 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:55:13,981 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]40996
+2024-02-12T12:55:13,981 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:55:13,982 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:55:13,989 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:57:01,047 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:57:01,054 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:57:01,055 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]13252
+2024-02-12T12:57:01,056 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:57:01,057 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:57:01,093 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:57:01,140 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - model_name: movieconnect_test, batchSize: 1
+2024-02-12T12:57:04,173 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-02-12T12:57:04,175 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-02-12T12:57:04,176 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Failed to load model movieconnect_test, exception No model weights could be loaded
+2024-02-12T12:57:04,177 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:57:04,177 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 131, in load_model
+2024-02-12T12:57:04,178 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     service = model_loader.load(
+2024-02-12T12:57:04,178 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\model_loader.py", line 135, in load
+2024-02-12T12:57:04,178 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     initialize_fn(service.context)
+2024-02-12T12:57:04,179 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\torch_handler\vision_handler.py", line 25, in initialize
+2024-02-12T12:57:04,180 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     super().initialize(context)
+2024-02-12T12:57:04,181 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\lib\site-packages\ts\torch_handler\base_handler.py", line 184, in initialize
+2024-02-12T12:57:04,181 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     raise RuntimeError("No model weights could be loaded")
+2024-02-12T12:57:04,182 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - RuntimeError: No model weights could be loaded
+2024-02-12T12:57:04,183 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Backend worker process died.
+2024-02-12T12:57:04,183 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-02-12T12:57:04,184 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 258, in <module>
+2024-02-12T12:57:04,184 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     worker.run_server()
+2024-02-12T12:57:04,185 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 226, in run_server
+2024-02-12T12:57:04,185 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     self.handle_connection(cl_socket)
+2024-02-12T12:57:04,186 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -   File "C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages\ts\model_service_worker.py", line 194, in handle_connection
+2024-02-12T12:57:04,186 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG -     raise RuntimeError("{} - {}".format(code, result))
+2024-02-12T12:57:04,186 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - RuntimeError: 500 - Unknown exception
+2024-02-12T12:57:07,635 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:57:07,642 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:57:07,643 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]42260
+2024-02-12T12:57:07,643 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:57:07,643 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:57:07,649 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:57:10,960 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:57:10,967 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:57:10,968 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]28128
+2024-02-12T12:57:10,968 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:57:10,968 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:57:10,975 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:57:15,481 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:57:15,489 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:57:15,490 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]34768
+2024-02-12T12:57:15,490 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:57:15,491 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:57:15,496 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-02-12T12:57:20,855 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-02-12T12:57:20,862 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Successfully loaded C:\Users\ssy30\vscode projects\MovieConnect\MC\Lib\site-packages/ts/configs/metrics.yaml.
+2024-02-12T12:57:20,863 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - [PID]3428
+2024-02-12T12:57:20,864 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Torch worker started.
+2024-02-12T12:57:20,865 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Python runtime: 3.10.7
+2024-02-12T12:57:20,873 [INFO ] W-9000-movieconnect_test_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
